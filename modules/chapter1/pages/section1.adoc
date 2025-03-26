@@ -1,6 +1,4 @@
-= Section 1
+= Provision AWS Blank Environment
 
-* Create multiple copies of this section as needed.
-* Remove any unnecessary sections or chapter pages.
-* Customize the section as appropriate.
-* Ensure that each page contains a manageable amount of content.
+* Login to demo.redhat.com using sso
+* Within the catalog of demo.redhat.com, search for “AWS Blank Open Environment” and click on it.
